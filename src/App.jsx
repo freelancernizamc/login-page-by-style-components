@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Image from '../src/assets/login.png';
 import Button from "./components/Button";
 import Icon from "./components/Icon";
 import Input from "./components/Input";
@@ -16,7 +17,7 @@ function App() {
   return (
     <Container>
       <StyledImage
-        src="/src/assets/login.png" 
+        src={Image} 
         alt="Login Image" 
       />
       <MainContainer>
