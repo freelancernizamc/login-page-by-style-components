@@ -16,8 +16,8 @@ function App() {
   return (
     <Container>
       <StyledImage
-        src="../public/login.png" 
-        alt="Image Alt Text" 
+        src="/src/assets/login.png" 
+        alt="Login Image" 
       />
       <MainContainer>
       <WelcomeText>Please Login</WelcomeText>
