@@ -1,8 +1,58 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of contents
 
-Currently, two official plugins are available:
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+
+### Screenshot
+
+![](./src/assets/live-link-screen-shot.png)
+
+### Links
+
+- Live Site URL: [Live Link](https://login-page-by-style-components.vercel.app/)
+
+## My process
+
+### Built with
+
+-
+- Style Components
+-
+
+### What I learned
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+
+```js
+const proudOfThisFunc = () => {
+  console.log("🎉");
+};
+```
+
+### Useful resources
+
+I use Style Components
+
+- Website - [Freelancer Nizam](https://www.nizam2020.com)
+- Frontend Mentor - [@freelancernizamc](https://www.frontendmentor.io/profile/freelancernizamc)
+- Twitter - [@freelancernizam](https://www.twitter.com/freelancernizam)
